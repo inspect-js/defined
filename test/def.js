@@ -1,5 +1,5 @@
 var defined = require('../');
-var test = require('tap').test;
+var test = require('tape');
 
 test('defined-or', function (t) {
     var u = undefined;
