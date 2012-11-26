@@ -3,7 +3,6 @@
     "version" : "0.0.0",
     "description" : "return the first argument that is `!== undefined`",
     "main" : "index.js",
-    "bin" : {},
     "directories" : {
         "example" : "example",
         "test" : "test"
