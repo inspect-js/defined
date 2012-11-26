@@ -5,6 +5,8 @@ return the first argument that is `!== undefined`
 Most of the time when I chain together `||`s, I actually just want the first
 item that is not `undefined`, not the first non-falsy item.
 
+This module is like the defined-or (`//`) operator in perl 5.10+.
+
 # example
 
 ``` js
