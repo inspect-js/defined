@@ -2,6 +2,8 @@
 
 return the first argument that is `!== undefined`
 
+[![build status](https://secure.travis-ci.org/substack/defined.png)](http://travis-ci.org/substack/defined)
+
 Most of the time when I chain together `||`s, I actually just want the first
 item that is not `undefined`, not the first non-falsy item.
 
