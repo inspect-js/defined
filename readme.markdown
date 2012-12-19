@@ -51,4 +51,3 @@ npm install defined
 # license
 
 MIT
-
