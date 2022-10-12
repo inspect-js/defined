@@ -48,9 +48,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/substack/defined.git"
+		"url": "git://github.com/inspect-js/defined.git"
 	},
-	"homepage": "https://github.com/substack/defined",
+	"homepage": "https://github.com/inspect-js/defined",
 	"keywords": [
 		"undefined",
 		"short-circuit",
