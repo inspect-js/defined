@@ -1,68 +1,68 @@
 {
-    "name": "defined",
-    "version": "1.0.0",
-    "description": "return the first argument that is `!== undefined`",
-    "main": "index.js",
-    "directories": {
-        "example": "example",
-        "test": "test"
-    },
-    "devDependencies": {
-        "@ljharb/eslint-config": "^21.0.0",
-        "aud": "^2.0.1",
-        "eslint": "=8.8.0",
-        "tape": "^5.6.1"
-    },
-    "scripts": {
-        "lint": "eslint --ext=js,mjs .",
-        "pretest": "npm run lint",
-        "tests-only": "tape 'test/**/*.js'",
-        "test": "npm run tests-only",
-        "posttest": "aud --production"
-    },
-    "testling": {
-        "files": "test/*.js",
-        "browsers": {
-            "ie": [
-                6,
-                7,
-                8,
-                9
-            ],
-            "ff": [
-                3.5,
-                10,
-                15
-            ],
-            "chrome": [
-                10,
-                22
-            ],
-            "safari": [
-                5.1
-            ],
-            "opera": [
-                12
-            ]
-        }
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/substack/defined.git"
-    },
-    "homepage": "https://github.com/substack/defined",
-    "keywords": [
-        "undefined",
-        "short-circuit",
-        "||",
-        "or",
-        "//",
-        "defined-or"
-    ],
-    "author": {
-        "name": "James Halliday",
-        "email": "mail@substack.net",
-        "url": "http://substack.net"
-    },
-    "license": "MIT"
+	"name": "defined",
+	"version": "1.0.0",
+	"description": "return the first argument that is `!== undefined`",
+	"main": "index.js",
+	"directories": {
+		"example": "example",
+		"test": "test"
+	},
+	"devDependencies": {
+		"@ljharb/eslint-config": "^21.0.0",
+		"aud": "^2.0.1",
+		"eslint": "=8.8.0",
+		"tape": "^5.6.1"
+	},
+	"scripts": {
+		"lint": "eslint --ext=js,mjs .",
+		"pretest": "npm run lint",
+		"tests-only": "tape 'test/**/*.js'",
+		"test": "npm run tests-only",
+		"posttest": "aud --production"
+	},
+	"testling": {
+		"files": "test/*.js",
+		"browsers": {
+			"ie": [
+				6,
+				7,
+				8,
+				9
+			],
+			"ff": [
+				3.5,
+				10,
+				15
+			],
+			"chrome": [
+				10,
+				22
+			],
+			"safari": [
+				5.1
+			],
+			"opera": [
+				12
+			]
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/substack/defined.git"
+	},
+	"homepage": "https://github.com/substack/defined",
+	"keywords": [
+		"undefined",
+		"short-circuit",
+		"||",
+		"or",
+		"//",
+		"defined-or"
+	],
+	"author": {
+		"name": "James Halliday",
+		"email": "mail@substack.net",
+		"url": "http://substack.net"
+	},
+	"license": "MIT"
 }

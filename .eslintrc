@@ -5,7 +5,6 @@
 
     "rules": {
         "consistent-return": 1,
-        "indent": [2, 4],
         "sort-keys": 0,
     },
 
