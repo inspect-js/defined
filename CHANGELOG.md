@@ -5,7 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0](https://github.com/ljharb/defined/compare/0.0.0...1.0.0) - 2015-03-30
+## [v1.0.1](https://github.com/ljharb/defined/compare/v1.0.0...v1.0.1) - 2022-10-12
+
+### Commits
+
+- [eslint] fix indentation [`84801c0`](https://github.com/ljharb/defined/commit/84801c054280c86c433022be64feddf38ac426aa)
+- [readme] rename, add badges [`7ccb011`](https://github.com/ljharb/defined/commit/7ccb011e69adda93a923408819730848ed9328cc)
+- [actions] add reusable workflows [`03917f0`](https://github.com/ljharb/defined/commit/03917f0a2a1123f71bd6a1e2d48802051614bda4)
+- [Dev Deps] update `tape` [`ac57011`](https://github.com/ljharb/defined/commit/ac57011cb753bf1f3937569b16f76a22ea6e9230)
+- [eslint] add eslint [`9bf7583`](https://github.com/ljharb/defined/commit/9bf7583959cb02ed2feac6d3781965921d2220f8)
+- [meta] add `auto-changelog` [`ec13b5f`](https://github.com/ljharb/defined/commit/ec13b5f04eb2273e6708bb8ac00e29b109880b07)
+- [meta] use `npmignore` to autogenerate an npmignore file [`549e1ff`](https://github.com/ljharb/defined/commit/549e1ff99822f86ec6394dcb4540a4ee596e7433)
+- Only apps should have lockfiles [`11dfedc`](https://github.com/ljharb/defined/commit/11dfedcd1cf1471fac56763064471f0093aa841f)
+- [meta] add `safe-publish-latest` [`efadc76`](https://github.com/ljharb/defined/commit/efadc76397fcfb4435934dab7c8a744bc831c38f)
+- [meta] update URLs [`aa9c486`](https://github.com/ljharb/defined/commit/aa9c48684a74611afaa50ae4429832cd39616812)
+- [Tests] add `aud` in `posttest` [`a0cf2fb`](https://github.com/ljharb/defined/commit/a0cf2fb66a61870e0657c4f41ba0893abfef77a1)
+- [meta] create FUNDING.yml; add `funding` in package.json [`b05fc5e`](https://github.com/ljharb/defined/commit/b05fc5e478baeb12822978e38232c8b8daf60c29)
+
+## [v1.0.0](https://github.com/ljharb/defined/compare/v0.0.0...v1.0.0) - 2015-03-30
 
 ### Commits
 
@@ -17,7 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - bump [`07dbbbf`](https://github.com/ljharb/defined/commit/07dbbbfa155c91e9ab09da07af797738340c7338)
 - bump [`1a6fde3`](https://github.com/ljharb/defined/commit/1a6fde32136c51b4b8d8664d2b6072d241e5b4ae)
 
-## 0.0.0 - 2012-11-25
+## v0.0.0 - 2012-11-25
 
 ### Commits
 
