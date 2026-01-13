@@ -68,5 +68,5 @@ MIT
 [downloads-url]: https://npm-stat.com/charts.html?package=defined
 [codecov-image]: https://codecov.io/gh/inspect-js/defined/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/inspect-js/defined/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/inspect-js/defined
+[actions-image]: https://img.shields.io/github/check-runs/inspect-js/defined/main
 [actions-url]: https://github.com/inspect-js/defined/actions
